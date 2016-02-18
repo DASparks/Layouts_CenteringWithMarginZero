@@ -1,0 +1,36 @@
+html, body, div {
+    border: 1px dashed black;
+    text-align: center;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+div {
+    margin: 0 auto;
+}
+
+.a {
+    width: 500px;
+    height: 400px;
+    Background-Color: green;
+}
+
+.b {
+    width: 400px;
+    height: 300px;
+    Background-Color: blue;
+}
+
+.c {
+    width: 300px;
+    height: 200px;
+    Background-Color: yellow;
+}
+
+.d {
+    width: 200px;
+    height: 100px;
+    Background-Color: red;
+}
